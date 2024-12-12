@@ -10,9 +10,9 @@ cd uninstall_nezha
 
  给脚本添加执行权限
  
-chmod +x uninstall_nezha.sh
+sudo chmod +x uninstall_nezha.sh
 
  执行卸载脚本
  
-./uninstall_nezha.sh
+sudo ./uninstall_nezha.sh
 
